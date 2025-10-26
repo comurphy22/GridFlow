@@ -1,13 +1,5 @@
 # GridflowAI: Smart Restoration Simulation with LLM Insight
 
-### NextEra “Next100” Hackathon Submission  
-**Team Members:**  
-- **Eric Fidalgo** 
-- **Jay Kim**  
-- **Conner Murphy**  
-- **Sai Bhargav Raju**  
-- **Yoga Yamini**
-
 ---
 
 ## Overview
