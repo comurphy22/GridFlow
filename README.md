@@ -1,4 +1,4 @@
-# GridflowAI: Smart Restoration Simulation with LLM Insight
+# Gridflow: Smart Restoration Simulation with LLM Insight
 
 ---
 
